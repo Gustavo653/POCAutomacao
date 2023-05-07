@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "POCAutomacao": {
+      "commandName": "Project",
+      "commandLineArgs": "-g 6bac2ef4-cbeb-4163-b6d9-0456b65b1544\r\n-r 29c68548-48af-4f1e-b219-49cebaa0e7e4\r\n-e tv01@linsper.com.br\r\n-p Linsper@18"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\GitHub\POCAutomacao\bin\Release\net6.0\publish\win-x64\POCAutomacao.pdb
+C:\GitHub\POCAutomacao\bin\Release\net6.0\publish\win-x64\chromedriver.exe
+C:\GitHub\POCAutomacao\bin\Release\net6.0\publish\win-x64\selenium-manager\linux\selenium-manager
+C:\GitHub\POCAutomacao\bin\Release\net6.0\publish\win-x64\selenium-manager\macos\selenium-manager
+C:\GitHub\POCAutomacao\bin\Release\net6.0\publish\win-x64\selenium-manager\windows\selenium-manager.exe
+C:\GitHub\POCAutomacao\bin\Release\net6.0\publish\win-x64\POCAutomacao.exe

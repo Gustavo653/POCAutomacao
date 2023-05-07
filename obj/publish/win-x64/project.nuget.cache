@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UiRN7+XPjhluOGK8nOTXJ7gWZUWlqzzt4TZmDs+lDqFStx/R+hqqCczJs3h2WaAe+89+ctEn7e1LJ6guHJzAfg==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\POCAutomacao\\POCAutomacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ujipe\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\ujipe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ujipe\\.nuget\\packages\\selenium.support\\4.9.0\\selenium.support.4.9.0.nupkg.sha512",
+    "C:\\Users\\ujipe\\.nuget\\packages\\selenium.webdriver\\4.9.0\\selenium.webdriver.4.9.0.nupkg.sha512",
+    "C:\\Users\\ujipe\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.16\\microsoft.netcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\ujipe\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\ujipe\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
